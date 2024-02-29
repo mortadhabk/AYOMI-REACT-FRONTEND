@@ -43,7 +43,7 @@ export default function Calculatrice() {
                         <CardMedia
                             component="img"
                             height="140"
-                            image="calculatrice.jpg" // Replace with the URL of the calculator image
+                            image="calculatrice.jpg" 
                             alt="Calculator"
                         />
                         <Typography variant="h4" gutterBottom>
